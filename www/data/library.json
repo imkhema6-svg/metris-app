@@ -1,0 +1,24 @@
+{
+  "note": "Learning resources shown in the app. Add items freely: factor is one of general, water, deform, veg, soil; kind is article, video, training, paper or data.",
+  "items": [
+    { "factor": "general", "kind": "article", "title": "What is synthetic aperture radar?", "source": "NASA Earthdata", "url": "https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar" },
+    { "factor": "general", "kind": "video", "title": "Introduction to synthetic aperture radar data (webinar)", "source": "NASA Earthdata / ASF DAAC", "url": "https://www.earthdata.nasa.gov/learn/webinars/introduction-synthetic-aperture-radar-data" },
+    { "factor": "general", "kind": "paper", "title": "The SAR Handbook, chapter 2: principles, data access and basic processing", "source": "NASA SERVIR / Earthdata", "url": "https://earthdata.nasa.gov/s3fs-public/2025-04/SARHB_CH2_Content.pdf" },
+    { "factor": "general", "kind": "data", "title": "NISAR data availability and release timeline", "source": "Alaska Satellite Facility", "url": "https://nisar-docs.asf.alaska.edu/availability-overview/" },
+    { "factor": "general", "kind": "article", "title": "NISAR L-band data released", "source": "NASA Earthdata", "url": "https://www.earthdata.nasa.gov/news/nisar-l-band-data-released-expanding-record-surface-changes" },
+    { "factor": "general", "kind": "article", "title": "NISAR mission site and application white papers", "source": "NASA JPL", "url": "https://nisar.jpl.nasa.gov/" },
+
+    { "factor": "water", "kind": "training", "title": "SAR for detecting and monitoring floods, sea ice and subsidence (recorded training)", "source": "NASA ARSET", "url": "https://appliedsciences.nasa.gov/get-involved/training/english/arset-sar-detecting-and-monitoring-floods-sea-ice-and-subsidence" },
+    { "factor": "water", "kind": "training", "title": "Monitoring urban floods using remote sensing", "source": "NASA ARSET", "url": "https://www.earthdata.nasa.gov/learn/trainings/monitoring-urban-floods-using-remote-sensing" },
+    { "factor": "water", "kind": "paper", "title": "NISAR applications: surface water and soil moisture", "source": "NASA JPL white paper", "url": "https://assets.science.nasa.gov/content/dam/science/missions/nisar/nisar-jpl/pdf/NISARApplications_SoilMoisture1.pdf" },
+
+    { "factor": "deform", "kind": "paper", "title": "NISAR applications: subsidence, a sinking landscape", "source": "NASA JPL white paper", "url": "https://assets.science.nasa.gov/content/dam/science/missions/nisar/nisar-jpl/pdf/NISAR_Applications_Subsidence.pdf" },
+    { "factor": "deform", "kind": "training", "title": "Measuring subsidence from groundwater extraction with InSAR (part 2 of the recorded training)", "source": "NASA ARSET", "url": "https://appliedsciences.nasa.gov/get-involved/training/english/arset-sar-detecting-and-monitoring-floods-sea-ice-and-subsidence" },
+
+    { "factor": "veg", "kind": "article", "title": "How radar wavelength and polarisation see forest canopy", "source": "NASA Earthdata", "url": "https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar" },
+    { "factor": "veg", "kind": "paper", "title": "The SAR Handbook: methods for forest monitoring and biomass estimation", "source": "NASA SERVIR / Earthdata", "url": "https://earthdata.nasa.gov/s3fs-public/2025-04/SARHB_CH2_Content.pdf" },
+
+    { "factor": "soil", "kind": "paper", "title": "NISAR applications: surface water and soil moisture", "source": "NASA JPL white paper", "url": "https://assets.science.nasa.gov/content/dam/science/missions/nisar/nisar-jpl/pdf/NISARApplications_SoilMoisture1.pdf" },
+    { "factor": "soil", "kind": "data", "title": "Historical weather and soil moisture (ERA5 and ERA5-Land reanalysis)", "source": "Open-Meteo", "url": "https://open-meteo.com/en/docs/historical-weather-api" }
+  ]
+}

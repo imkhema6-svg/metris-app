@@ -1,0 +1,15 @@
+{
+  "name": "METRIS",
+  "short_name": "METRIS",
+  "description": "Environmental change from radar satellites: what changed, where, when, why, and what it may lead to.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1ee",
+  "theme_color": "#14212b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
